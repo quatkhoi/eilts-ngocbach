@@ -1,0 +1,43 @@
+PRIVACY POLICY
+
+
+APPLICATION PRIVACY STATEMENT
+
+This privacy statement ("Privacy Statement") applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application ("Application"). The Application is provided by IELTS Ngoc Bach (and may be provided by IELTS Ngoc Bach on behalf of a IELTS Ngoc Bach licensor or partner ("Application Partner"). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+
+
+PERSONAL DATA COLLECTED FOR THE FOLLOWING PURPOSES AND USING THE FOLLOWING SERVICES:
+
+Generally, we do not collect any personal identifiable information from you when you download our Android applications. To be specific, we do not require the consumers to get registered before downloading the application, nor do we keep track of the consumers' visits of our application, we even don't have a Server to store such personal identifiable information.
+
+The only situation we may get access to your personal identifiable information is when you personally decide to email us your feedback or to provide us with a bug report.
+
+In above situation, we guarantee that your personal identifiable information will only be used for contacting you and improving our services. We will never use such information (ex:. your name and email address) for any other purposes, such as to further market our products, or to disclose your personal information to a third party for commercial gains.
+
+
+CONDITIONS OF USE.
+
+If you decide to use or otherwise access the Application, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+
+THIRD PARTY APPLICATIONS
+
+The Application may permit you to link to other applications. Such third party applications/websites are not under IELTS Ngoc Bach's control, and such links do not constitute an endorsement by IELTS Ngoc Bach of those other applications/websites or the services offered through them. The privacy and security practices of such third party application/websites linked to the Application are not covered by this Privacy Statement, and IELTS Ngoc Bach is not responsible for the privacy or security practices or the content of such websites.
+
+
+CAN CHILDREN USE THE APPLICATION?
+
+Our application is not directed to children under the age of 13. Users declare themselves to be adult according to their applicable legislation. Minors may use this Application only with the assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use this Application.
+
+
+CHANGES TO THIS PRIVACY STATEMENT.
+
+IELTS Ngoc Bach may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Site or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted.
+
+PERMISSION
+
+- Permission android.permission.RECORD_AUTIO to record autio  
+
+- Permission android.permission.READ_EXTERNAL_STORAGE to read data
+
+- Permission android.permission.WRITE_EXTERNAL_STORAGE to write data
